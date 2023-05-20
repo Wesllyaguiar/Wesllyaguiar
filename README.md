@@ -1,4 +1,3 @@
-
 ## Oiii eu sou a weslly👋!
 
 - 🌱 Atualmente estou cursando engenharia de software.
@@ -7,7 +6,6 @@
 
 ###
 ![weslly GitHub stats](https://github-readme-stats.vercel.app/api?username=Wesllyaguiar&show_icons=true&theme=dracula&count_private=true)
-![ Animação de cobra ](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
 
 ### tecnologia que uso no meu dia
 
