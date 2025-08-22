@@ -2,7 +2,7 @@
 
 - 🌱 Atualmente estou cursando engenharia de software.
 - 🔭 Atualmente estou trabalhando em pequenos projetos pessoais apenas para ter conechimento
-- 😄 Pronomes: ele/dele
+
 
 ###
 ![weslly GitHub stats](https://github-readme-stats.vercel.app/api?username=Wesllyaguiar&show_icons=true&theme=dracula&count_private=true)
